@@ -1,7 +1,8 @@
 ### Hello there 👋
+I am Aimee the Analyst. 
 
 <!--
-[![Header](https://raw.githubusercontent.com/aimeexxi/<OWNER>/<OWNER>/Pink and Purple Professional LinkedIn Banner.png "Header")](https://some-url.dev/)
+
 **aimeexxi/aimeexxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
